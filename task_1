@@ -1,3 +1,0 @@
--- Task 1
--- Explore the data
-SELECT * FROM customer LIMIT 10; 
