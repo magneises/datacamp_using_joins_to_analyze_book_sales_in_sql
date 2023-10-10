@@ -138,6 +138,7 @@ WHERE cust_order.order_id = 4412
 
 /*
 Task 6. 
+NOTE: SEE READ ME FILE FOR CHART IMAGE.
 Do a significant number of users return multiple orders?
 Now that we successfully joined the order_history and cust_order table we can add the other parts needed to get a clear view of outliers in the data.
 
